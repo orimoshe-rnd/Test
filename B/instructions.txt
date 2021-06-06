@@ -1,0 +1,28 @@
+Instructions
+
+This application help you select markers on OSG model and save and load your projects. You can Export the markers to .csv. 
+
+Made by: Jacob and Ori
+
+Menu Bars: 
+File Menu Bar:
+New - make new project
+Load - load existing project, it a .osgTool file!
+Save - save your project in your wanted path
+
+When you open a project will have the following GUI, By left top to down right:
+Groups List - This is where you groups will be. Each have index as a name (number). To select group press the group index
+Osg File Path - The path of the osg file of the project
+Color Button - The color of the selected group. If group is not selected the color of the button will be grey. Select group and press the color button for changing the group color.
+Delete Selected Markers - Delete the selected markers of the markers table on the right
+Delete Group - Delete the selected group
+Export Selected Group - Export the selected group markers coordinates, by marker index order, to .csv file
+Export All - Export the all groups markers coordinates to .csv file, By group index and markers index
+View Mode Check Box - When checked will not make new marker when press the OSG windows
+Show Routes between Selected Markers - Show the markers routes, order by index, of the selected group
+
+In the middle you have the OSG windows. It show the loaded OSG model. You can click on the model to make new marker in the place you selected. If any markers are selected and press on OSG windows it will change the selected markers positions.  
+
+In the right you have the markers table. Each marker have x, y and z and the index. You can change the coordinates values by typing new numbers. You can select marker by pressing them, hold control or shift and click to selected few. 
+
+© 2021 - 2021 Rafael Advanced Defense Systems Ltd - All Rights Reserved.

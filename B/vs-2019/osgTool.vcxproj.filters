@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\vs-2019\osgTool_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\mainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\Group.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\osgbillboard.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\qtOsgWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\Spoiler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\mark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\OsgMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\markMenu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\vs-2019\osgTool_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\vs-2019\osgTool_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\vs-2019\osgTool_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\PushButton.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lotemn\Desktop\Projects\TerrainTracksGenerator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{6BDED9FE-BE98-33B4-A5F2-271AA7219CA7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{77D3169E-608B-3211-8710-BF482FCA2CC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

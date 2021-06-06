@@ -1,0 +1,4 @@
+/home/ofek/TerrainTracksGenerator/build/CMakeFiles/rebuild_cache.dir
+/home/ofek/TerrainTracksGenerator/build/CMakeFiles/osgTool.dir
+/home/ofek/TerrainTracksGenerator/build/CMakeFiles/edit_cache.dir
+/home/ofek/TerrainTracksGenerator/build/CMakeFiles/osgTool_autogen.dir
